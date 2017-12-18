@@ -2,7 +2,7 @@
   "name"            : "ToDoList",
   "description"     : "A simple To Do list",
   "namespace"       : "ToDoList",
-  "author"          : "Your name",
+  "author"          : "Cristophor Hurduban",
   "type"            : "template",
   "serviceProvider" : "ToDoList\\Providers\\ToDoServiceProvider",
   "runOnBuild"      : [
